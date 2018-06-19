@@ -28,7 +28,7 @@
     "node-uuid": "",
     "optimist": "",
     "pretty-error": "^2.0.2",
-    "purdy": "^2.2.0",
+    "purdy": "^3.1.1",
     "rando-js": "^0.1.1",
     "sprintf-js": "^1.0.3",
     "sty": "",

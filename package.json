@@ -34,7 +34,7 @@
     "sty": "",
     "whitelist-ips": "^1.0.1",
     "winston": "^2.3.1",
-    "wrap-ansi": "^2.0.0",
+    "wrap-ansi": "^8.0.0",
     "yaml": ""
   },
   "devDependencies": {

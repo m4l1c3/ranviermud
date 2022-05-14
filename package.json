@@ -27,14 +27,14 @@
     "longjohn": "^0.2.11",
     "node-uuid": "",
     "optimist": "",
-    "pretty-error": "^2.0.2",
+    "pretty-error": "^4.0.0",
     "purdy": "^2.2.0",
     "rando-js": "^0.1.1",
     "sprintf-js": "^1.0.3",
     "sty": "",
     "whitelist-ips": "^1.0.1",
     "winston": "^2.3.1",
-    "wrap-ansi": "^2.0.0",
+    "wrap-ansi": "^5.0.0",
     "yaml": ""
   },
   "devDependencies": {
